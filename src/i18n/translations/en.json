@@ -1,0 +1,17 @@
+{
+    "translation": {
+        "selectYourLanguage": "Select your language",
+        "contact": "Contact",
+        "help": "Support",
+        "myReservations": "My reservations",
+        "rentCar": "Rent a car",
+        "placeHolder": "Enter the car make or model",
+        "seeOffers": "See offers",
+        "results": "Results",
+        "vehicleMake": "Vehicle Make",
+        "model": "Model",
+        "price": "Price",
+        "details": "Details",
+        "buy": "(Buy)"
+    }
+}

@@ -1,0 +1,43 @@
+.categories {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+    max-width: 1600px;
+    margin: 5rem auto;
+    gap: 2rem;
+   
+}
+
+.categories a {
+    width: 30%;
+    padding: 1rem 1rem 10rem;
+    cursor: pointer;
+    background-position: center center;
+    background-size: cover;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.categories a:hover {
+    transform: scale(1.1);
+}
+
+.categories h2 {
+    color: #FFF;
+}
+
+.categorie-suv {
+    background-image: url("../img/suv.jpg");
+}
+
+.categorie-hatch {
+    background-image: url("../img/hatch.jpg");
+}
+
+.categorie-seda {
+    background-image: url("../img/seda.jpg");
+}
+
+.categorie-picape {
+    background-image: url("../img/picape.jpg");
+}

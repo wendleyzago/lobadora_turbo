@@ -1,0 +1,17 @@
+.search-container {
+  background-color: #FFF;
+  padding: 2rem;
+  width: 1600px;
+  margin: 50px auto;
+  box-shadow: 0 8px 20px 0 rgb(158 184 209 / 43%);
+}
+
+.title {
+text-align: center;
+}
+
+.result {
+  text-align: center;
+  margin-top: 3em;
+}
+

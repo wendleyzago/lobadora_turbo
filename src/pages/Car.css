@@ -1,0 +1,15 @@
+.car-page {
+    display: flex;
+   flex-direction: column;
+   max-width: 800px;
+   margin: 2em auto;
+}
+
+.car-page img {
+    width: 700px;
+    height: 500px;
+}
+
+.car-page h2 {
+  width: 700px;
+}

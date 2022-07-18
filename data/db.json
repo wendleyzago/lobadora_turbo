@@ -1,0 +1,126 @@
+{
+    "data": [
+        
+                {
+                    "id": 1,
+                    "tipo": "Suv",
+                    "marca": "Chevrolet",
+                    "modelo": "Tracker",
+                    "preco": 120500,
+                    "capa": "https://static.kbb.com.br/Uploads/ResearchTools/News/3895/5bf5dcc2-ddd9-4e76-8a01-7eac271bd23b.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+        
+                {
+                    "id": 2,
+                    "tipo": "Suv",
+                    "marca": "Hyundai",
+                    "modelo": "Creta",
+                    "preco": 141000,
+                    "capa": "https://static.kbb.com.br/Uploads/ResearchTools/News/3895/31ebcd18-1c3f-468f-80cd-605f87b4a642.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+        
+                {
+                    "id": 3,
+                    "tipo": "Suv",
+                    "marca": "Volkswagen",
+                    "modelo": "T-cross",
+                    "preco": 110000,
+                    "capa": "https://static.kbb.com.br/Uploads/ResearchTools/News/3895/e53cb920-1dee-432f-aadc-8e625557a0e0.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+                
+                {
+                    "id": 4,
+                    "tipo": "Hatch",
+                    "marca": "Chevrolet",
+                    "modelo": "Onix",
+                    "preco": 80000,
+                    "capa": "https://cdn.autopapo.com.br/box/uploads/2019/11/22161326/novo-onix-premier-20.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+
+                {
+                    "id": 5,
+                    "tipo": "Hatch",
+                    "marca": "Volkswagen",
+                    "modelo": "Polo",
+                    "preco": 80000,
+                    "capa": "https://cdn.autopapo.com.br/box/uploads/2020/09/17015705/vw-polo-200-tsi-comfortline-cinza-de-frente-1.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+
+                {
+                    "id": 6,
+                    "tipo": "Hatch",
+                    "marca": "Ford",
+                    "modelo": "Ka",
+                    "preco": 80000,
+                    "capa": "https://cdn.autopapo.com.br/box/uploads/2018/09/17105643/ka-2018-3607press-1241x827.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+            
+                {
+                    "id": 7,
+                    "tipo": "Sedan",
+                    "marca": "Fiat",
+                    "modelo": "Cronos",
+                    "preco": 107200,
+                    "capa": "https://blog.catarinacarros.com.br/wp-content/uploads/2020/03/fiat-cronos-drive.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+                
+                {
+                    "id": 8,
+                    "tipo": "Sedan",
+                    "marca": "Volkswagen",
+                    "modelo": "Virtus",
+                    "preco": 110000,
+                    "capa": "https://blog.catarinacarros.com.br/wp-content/uploads/2020/03/carro-vw-virtus-sedan.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+
+                {
+                    "id": 9,
+                    "tipo": "Sedan",
+                    "marca": "Ford",
+                    "modelo": "Ka",
+                    "preco": 110000,
+                    "capa": "https://blog.catarinacarros.com.br/wp-content/uploads/2020/03/carro-ford-ka-sedan.jpg",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+
+                {
+                    "id": 10,
+                    "tipo": "Picape",
+                    "marca": "Fiat",
+                    "modelo": "Toro",
+                    "preco": 120000,
+                    "capa": "https://quatrorodas.abril.com.br/wp-content/uploads/2021/04/Volcano_0020.jpeg?quality=70&strip=info",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+
+                {
+                    "id": 11,
+                    "tipo": "Picape",
+                    "marca": "Toyota",
+                    "modelo": "Hilux",
+                    "preco": 150000,
+                    "capa": "https://quatrorodas.abril.com.br/wp-content/uploads/2020/07/nOVA-HILUX-2-e1594744251401.jpg?quality=70&strip=info",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                },
+
+                {
+                    "id": 12,
+                    "tipo": "Picape",
+                    "marca": "Ford",
+                    "modelo": "Ranger",
+                    "preco": 170000,
+                    "capa": "https://cdn.motor1.com/images/mgl/j47Lg/s1/2019-ford-ranger-raptor.webp",
+                    "descricao": "A Chevrolet apresentou a linha 2023 da dupla Onix e Onix Plus durante o festival de música Lollapalooza. Assim como na linha 2022, o hatch poderá ser comprado em nove versões e conta com duas opções de motores: 1.0 aspirado flex de 78/82 cv e 9,6/10,6 kgfm (gasolina/etanol), aliado sempre ao câmbio manual de seis marchas, e 1.0 turboflex com 116 cv e 16,3/16,8 kgfm - com opção manual ou automática também de seis marchas."
+                }
+            ]
+            
+}
+

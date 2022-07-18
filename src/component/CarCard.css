@@ -1,0 +1,101 @@
+.car-container {
+    max-width: 1600px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1rem auto;
+}
+
+.sub-container {
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    margin: 0 auto;
+   
+}
+
+.sub-container h2 {
+  margin: 0 auto;
+  
+}
+
+.car-container img {
+    min-width: 100%;
+    height: 300px;
+    
+}
+
+.car-container h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding: .5em;
+}
+
+.valor {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.valor p {
+    margin-bottom: .4em;
+}
+
+.data-car {
+    background-color: #616161;
+    color: #FFF;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.data-car span {
+    font-weight: bold;
+}
+
+
+.car-confirm {
+    background-color: red;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.5s;
+  
+}
+
+.car-confirm:hover {
+    background-color: rgb(170, 19, 19);
+}
+
+.car-confirm span {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.car-confirm a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.car-link {
+    width: 200px;
+    padding: 18px 0;
+}
+
+.description {
+    padding: 1em;
+    font-size: 1.2em;
+    text-align: justify;
+}

@@ -1,0 +1,18 @@
+{
+    "translation": {
+        "selectYourLanguage": "Selecione o seu idioma",
+        "contact": "Contato",
+        "help": "Ajuda",
+        "myReservations": "Minhas reservas",
+        "rentCar": "Alugue um carro",
+        "placeHolder": "Digite a marca ou modelo do carro",
+        "seeOffers": "Ver ofertas",
+        "results": "Resultados",
+        "vehicleMake": "Marca",
+        "model": "Modelo",
+        "price": "Preço",
+        "details": "Detalhes",
+        "buy": "(Comprar)"
+        
+    }
+}

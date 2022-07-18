@@ -1,0 +1,36 @@
+.language-switcher {
+    display: flex;
+    align-items: center;
+    padding: 1px;
+    justify-content: right;
+    background-color: #FFF;
+    max-height: 50px;
+}
+
+.language-switcher button {
+    cursor: pointer;
+    background-color: none;
+    border: none;
+    padding: 5px;
+    width: 70px;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF;
+}
+
+.language-switcher button:hover {
+    text-decoration: underline;
+}
+
+.language-switcher button span {
+    color: black;
+    font-size: 12px;
+
+}
+
+.language-switcher button img {
+    width: 30px;
+}
